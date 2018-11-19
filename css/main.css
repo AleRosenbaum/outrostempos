@@ -3403,7 +3403,7 @@ html.no-csstransitions .home-content__main {
   padding-bottom: 21rem;
   text-align: center;
   position: relative;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/Background.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3612,7 +3612,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 16.2rem;
   padding-bottom: 21rem;
-  background-color: #5e3080;
+  background-color: #a56d3e;
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   position: relative;
@@ -3830,7 +3830,7 @@ footer {
   padding-top: 9rem;
   padding-bottom: 6rem;
   color: rgba(255, 255, 255, 0.6);
-  background-color: #5e3080;
+  background-color: #a56d3e;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
   position: relative;
@@ -3861,7 +3861,7 @@ footer a {
 
 .ss-go-top a {
   color: #FFFFFF;
-  background-color: #351b48;
+  background-color: #91371e;
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
@@ -3900,7 +3900,7 @@ footer a {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-  background-color: #2d173d;
+  background-color: #91371e;
 }
 
 /* ------------------------------------------------------------------- 
